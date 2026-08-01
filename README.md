@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Nghia Nguyen
 
-<!--
-**nghianguyen-code/nghianguyen-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Industrial University of Ho Chi Minh City
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Interested in Embedded Systems, IoT, and Computer Vision
+- 💻 Currently learning Embedded Software Development
+- 🔧 Building projects with ESP32, Raspberry Pi, Python, and C++
+- 🎯 Seeking an Embedded Software Internship
+
+---
+
+## 🛠 Tech Stack
+
+- C
+- C++
+- Python
+- ESP32
+- Raspberry Pi
+- Linux
+- MQTT
+- OpenCV
+- Git
+- GitHub
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/nghianguyen1506
